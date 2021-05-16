@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: inf226.inchat.InchatTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.239 s <<< FAILURE! - in inf226.inchat.InchatTest
+TestSaltPWD  Time elapsed: 0.055 s  <<< ERROR!
+java.lang.IllegalArgumentException: Invalid hashed value
+	at inf226.inchat.InchatTest.TestSaltPWD(InchatTest.java:122)
+
